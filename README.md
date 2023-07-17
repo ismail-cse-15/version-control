@@ -11,7 +11,7 @@ Git configuration<br>
 git config --global user.name "Your Name"<br>
 git config --global user.email "youremail@gmail.com"<br>
 
-<h1>git branching model<h1>
+<h1>git branching model</h1>
 
 git checkout -b [branch name]<br>
 git branch -a <br>
