@@ -13,3 +13,6 @@ git config --global user.email "youremail@gmail.com"<br>
 
 <h1>git branching model<h1>
 
+git checkout -b [branch name]<br>
+git branch -a <br>
+git marge [branch name]<br>
